@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="Cantidad" type="Cantidad">
+  <xs:element name="Cantidad" type="TipoCantidad">
   </xs:element>
-  <xs:simpleType name="Cantidad">
+  <xs:simpleType name="TipoCantidad">
     <xs:restriction base="xs:short">
       <xs:minInclusive value="-30"/>
       <xs:maxInclusive value="30"/>
