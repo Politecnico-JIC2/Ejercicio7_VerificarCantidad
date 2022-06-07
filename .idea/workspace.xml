@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110af505-5397-4d5d-90f7-58d1a2da5d0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/VerificarCantidad.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VerificarCantidad.xsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VerificarCantidad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VerificarCantidad.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VerificarCantidad.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/VerificarCantidad.xsd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
